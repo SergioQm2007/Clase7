@@ -8,5 +8,6 @@ Es necesario tener instalada la biblioteca *tkinter* para utilizar este código.
 
 ## Ejemplo de uso 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/75bbd7a6-9460-4936-b376-f9c7e43f8fa1)
+
 
